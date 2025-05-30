@@ -6,7 +6,6 @@
 -  Always up for prep collabs for NSAT or other coding contests.
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-yadav-5b5021366)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I treat solving coding problems like a daily workout—one LeetCode or NSAT challenge a day keeps the bugs away 💪  
-Tanishka-cs/Tanishka-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- ⚡ Fun fact: I treat solving coding problems like a daily workout—one LeetCode,Hackerrank or NSAT challenge a day keeps the bugs away 💪  
+Tanishka-cs/Tanishka-cs is a ✨ special ✨ repository
 --->
