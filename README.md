@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on my skills and exploring new languages.
 - 💞️ I’m looking to collaborate on challenging coding problems, DSA projects,
 - and anything that sharpens algorithmic thinking.
--  Always up for prep collabs for NSAT or other coding contests.
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/tanishka-yadav-5b5021366)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I treat solving coding problems like a daily workout—one LeetCode,Hackerrank or NSAT challenge a day keeps the bugs away 💪  
